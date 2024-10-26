@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 26 12:35:25 GMT 2024","Sat Oct 26 12:35:25 GMT 2024","477","tests","test_yandex","","","","Выполнение запроса на поиск, без API_KEY. Негативный сценарий",""
+"passed","Sat Oct 26 12:35:25 GMT 2024","Sat Oct 26 12:35:25 GMT 2024","411","tests","test_yandex","","","","Выполнение запроса на поиск. Пустой url. Негативный сценарий",""
+"passed","Sat Oct 26 12:35:24 GMT 2024","Sat Oct 26 12:35:25 GMT 2024","738","tests","test_yandex","","","","Выполнение запроса на поиск. Позитивный сценарий.",""
